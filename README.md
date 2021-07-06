@@ -9,6 +9,6 @@ sudo bash Gemfile
 
 sudo bash installer.sh
 
-#Seconde Setup 
+# Seconde Setup 
 
 python3 mhvx-framework.py
